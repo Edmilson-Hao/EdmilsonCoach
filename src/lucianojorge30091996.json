@@ -1,239 +1,278 @@
 {
-  "treinos": [
-    {
-      "dia": "Peito + Bíceps",
-      "exercicios": [
-        {
-          "nome": "Crucifixo Máquina",
-          "series_repeticoes": "3x15",
-          "descanso": "60s",
-          "observacao": "pico de contração de 3s a cada execução"
-        },
-        {
-          "nome": "Supino Incliado Halteres",
-          "series_repeticoes": "4x8",
-          "descanso": "90s",
-          "observacao": "Carga Alta"
-        },
-        {
-          "nome": "Supino Reto Barra",
-          "series_repeticoes": "4x10",
-          "descanso": "90s",
-          "observacao": ""
-        },
-        {
-          "nome": "Cross Over Polia Baixa",
-          "series_repeticoes": "4x15",
-          "descanso": "60s",
-          "observacao": "Pico de contração 3s"
-        },
-        {
-          "nome": "Cross Over Polia Alta",
-          "series_repeticoes": "4x12",
-          "descanso": "60s",
-          "observacao": ""
-        },
-        {
-          "nome": "Rosca Direta Barra W",
-          "series_repeticoes": "4x12",
-          "descanso": "60s",
-          "observacao": ""
-        },
-        {
-          "nome": "Rosca Alternada Alteres",
-          "series_repeticoes": "4x12",
-          "descanso": "60s",
-          "observacao": ""
-        },
-        {
-          "nome": "Rosca Martelo",
-          "series_repeticoes": "4x12",
-          "descanso": "60s",
-          "observacao": ""
-        }
-      ]
-    },
-    {
-      "dia": "Costa + Tríceps",
-      "exercicios": [
-        {
-          "nome": "Pull Down Barra",
-          "series_repeticoes": "4x15",
-          "descanso": "60s",
-          "observacao": ""
-        },
-        {
-          "nome": "Remada Curvada Pronada",
-          "series_repeticoes": "4x8+F",
-          "descanso": "90s",
-          "observacao": "Rest N'Pause"
-        },
-        {
-          "nome": "Remada Baixa Triângulo",
-          "series_repeticoes": "4x12",
-          "descanso": "90s",
-          "observacao": ""
-        },
-        {
-          "nome": "Serrote",
-          "series_repeticoes": "4x8",
-          "descanso": "60s",
-          "observacao": ""
-        },
-        {
-          "nome": "Facepull Corda",
-          "series_repeticoes": "5x12",
-          "descanso": "60s",
-          "observacao": ""
-        },
-        {
-          "nome": "Tríceps Testa Polia",
-          "series_repeticoes": "4x12",
-          "descanso": "60s",
-          "observacao": ""
-        },
-        {
-          "nome": "Tríceps Pulley Barra V",
-          "series_repeticoes": "4x12+F+F",
-          "descanso": "60s",
-          "observacao": "Drop Set"
-        },
-        {
-          "nome": "Tríceps Coice",
-          "series_repeticoes": "4x12",
-          "descanso": "60s",
-          "observacao": ""
-        }
-      ]
-    },
-    {
-      "dia": "Perna",
-      "exercicios": [
-        {
-          "nome": "Stiff Barra",
-          "series_repeticoes": "4x10",
-          "descanso": "90s",
-          "observacao": ""
-        },
-        {
-          "nome": "Flexora Deitada",
-          "series_repeticoes": "4x12",
-          "descanso": "60s",
-          "observacao": ""
-        },
-        {
-          "nome": "Flexora Sentada",
-          "series_repeticoes": "4x12",
-          "descanso": "60s",
-          "observacao": ""
-        },
-        {
-          "nome": "Agachamento Barra",
-          "series_repeticoes": "4x8",
-          "descanso": "90s",
-          "observacao": ""
-        },
-        {
-          "nome": "Leg Press",
-          "series_repeticoes": "4x10+15",
-          "descanso": "90s",
-          "observacao": "Biset com Panturrilha no Leg Press"
-        },
-        {
-          "nome": "Extensora",
-          "series_repeticoes": "4x15+F",
-          "descanso": "90s",
-          "observacao": "Rest N'Pause"
-        },
-        {
-          "nome": "Adutora",
-          "series_repeticoes": "4x12+12",
-          "descanso": "60s",
-          "observacao": "Biset com Abdutora"
-        }
-      ]
-    },
-    {
-      "dia": "Ombro",
-      "exercicios": [
-        {
-          "nome": "Elevação Lateral Polia",
-          "series_repeticoes": "6x10",
-          "descanso": "30s",
-          "observacao": ""
-        },
-        {
-          "nome": "Desenvolvimento Halteres",
-          "series_repeticoes": "4x10",
-          "descanso": "90s",
-          "observacao": ""
-        },
-        {
-          "nome": "Elevação Frontal Barra",
-          "series_repeticoes": "4x10",
-          "descanso": "60s",
-          "observacao": ""
-        },
-        {
-          "nome": "Crucifixo Inverso Halteres",
-          "series_repeticoes": "4x12",
-          "descanso": "60s",
-          "observacao": ""
-        },
-        {
-          "nome": "Elevação Lateral Halteres",
-          "series_repeticoes": "4x10+F",
-          "descanso": "60s",
-          "observacao": "Drop Set"
-        },
-        {
-          "nome": "Remada Alta Barra",
-          "series_repeticoes": "4x10",
-          "descanso": "60s",
-          "observacao": ""
-        }
-      ]
-    },
-    {
-      "dia": "Braço",
-      "exercicios": [
-        {
-          "nome": "Rosca Scott Barra W",
-          "series_repeticoes": "4x12",
-          "descanso": "60s",
-          "observacao": ""
-        },
-        {
-          "nome": "Rosca Alternada",
-          "series_repeticoes": "4x12",
-          "descanso": "60s",
-          "observacao": ""
-        },
-        {
-          "nome": "Rosca Braquial",
-          "series_repeticoes": "4x12+F",
-          "descanso": "60s",
-          "observacao": "Drop Set"
-        },
-        {
-          "nome": "Tríceps Testa Polia",
-          "series_repeticoes": "4x12",
-          "descanso": "60s",
-          "observacao": ""
-        },
-        {
-          "nome": "Tríceps Pulley Barra W",
-          "series_repeticoes": "4x12+F",
-          "descanso": "60s",
-          "observacao": "Drop Set"
-        },
-        {
-          "nome": "Tríceps Coice Polia",
-          "series_repeticoes": "4x12",
-          "descanso": "60s",
-          "observacao": ""
-        }
-      ]
-    }
-  ]
+  "aluno": "Luciano Jorge",
+  "treino": {
+    "validadeTreino": "26/12/2025 - 26/01/2026",
+    "diasTreino": [
+      {
+        "nome": "Dia 1 - Peito + Bíceps",
+        "exercicios": [
+          {
+            "nome": "Crucifixo Máquina",
+            "series": "3x15",
+            "descanso": "60s",
+            "observacaoSerie": "pico de contração de 3s a cada execução",
+            "video": ""
+          },
+          {
+            "nome": "Supino Incliado Halteres",
+            "series": "4x8",
+            "descanso": "90s",
+            "observacaoSerie": "Carga Alta",
+            "video": ""
+          },
+          {
+            "nome": "Supino Reto Barra",
+            "series": "4x10",
+            "descanso": "90s",
+            "observacaoSerie": "",
+            "video": ""
+          },
+          {
+            "nome": "Cross Over Polia Baixa",
+            "series": "4x15",
+            "descanso": "60s",
+            "observacaoSerie": "Pico de contração 3s",
+            "video": ""
+          },
+          {
+            "nome": "Cross Over Polia Alta",
+            "series": "4x12",
+            "descanso": "60s",
+            "observacaoSerie": "",
+            "video": ""
+          },
+          {
+            "nome": "Rosca Direta Barra W",
+            "series": "4x12",
+            "descanso": "60s",
+            "observacaoSerie": "",
+            "video": ""
+          },
+          {
+            "nome": "Rosca Alternada Alteres",
+            "series": "4x12",
+            "descanso": "60s",
+            "observacaoSerie": "",
+            "video": ""
+          },
+          {
+            "nome": "Rosca Martelo",
+            "series": "4x12",
+            "descanso": "60s",
+            "observacaoSerie": "",
+            "video": ""
+          }
+        ]
+      },
+      {
+        "nome": "Dia 2 - Costa + Tríceps",
+        "exercicios": [
+          {
+            "nome": "Pull Down Barra",
+            "series": "4x15",
+            "descanso": "60s",
+            "observacaoSerie": "",
+            "video": ""
+          },
+          {
+            "nome": "Remada Curvada Pronada",
+            "series": "4x8+F",
+            "descanso": "90s",
+            "observacaoSerie": "Rest N'Pause",
+            "video": ""
+          },
+          {
+            "nome": "Remada Baixa Triângulo",
+            "series": "4x12",
+            "descanso": "90s",
+            "observacaoSerie": "",
+            "video": ""
+          },
+          {
+            "nome": "Serrote",
+            "series": "4x8",
+            "descanso": "60s",
+            "observacaoSerie": "",
+            "video": ""
+          },
+          {
+            "nome": "Facepull Corda",
+            "series": "5x12",
+            "descanso": "60s",
+            "observacaoSerie": "",
+            "video": ""
+          },
+          {
+            "nome": "Tríceps Testa Polia",
+            "series": "4x12",
+            "descanso": "60s",
+            "observacaoSerie": "",
+            "video": ""
+          },
+          {
+            "nome": "Tríceps Pulley Barra V",
+            "series": "4x12+F+F",
+            "descanso": "60s",
+            "observacaoSerie": "Drop Set",
+            "video": ""
+          },
+          {
+            "nome": "Tríceps Coice",
+            "series": "4x12",
+            "descanso": "60s",
+            "observacaoSerie": "",
+            "video": ""
+          }
+        ]
+      },
+      {
+        "nome": "Dia 3 - Perna",
+        "exercicios": [
+          {
+            "nome": "Stiff Barra",
+            "series": "4x10",
+            "descanso": "90s",
+            "observacaoSerie": "",
+            "video": ""
+          },
+          {
+            "nome": "Flexora Deitada",
+            "series": "4x12",
+            "descanso": "60s",
+            "observacaoSerie": "",
+            "video": ""
+          },
+          {
+            "nome": "Flexora Sentada",
+            "series": "4x12",
+            "descanso": "60s",
+            "observacaoSerie": "",
+            "video": ""
+          },
+          {
+            "nome": "Agachamento Barra",
+            "series": "4x8",
+            "descanso": "90s",
+            "observacaoSerie": "",
+            "video": ""
+          },
+          {
+            "nome": "Leg Press",
+            "series": "4x10+15",
+            "descanso": "90s",
+            "observacaoSerie": "Biset com Panturrilha no Leg Press",
+            "video": ""
+          },
+          {
+            "nome": "Extensora",
+            "series": "4x15+F",
+            "descanso": "90s",
+            "observacaoSerie": "Rest N'Pause",
+            "video": ""
+          },
+          {
+            "nome": "Adutora",
+            "series": "4x12+12",
+            "descanso": "60s",
+            "observacaoSerie": "Biset com Abdutora",
+            "video": ""
+          }
+        ]
+      },
+      {
+        "nome": "Dia 4 - Ombro",
+        "exercicios": [
+          {
+            "nome": "Elevação Lateral Polia",
+            "series": "6x10",
+            "descanso": "30s",
+            "observacaoSerie": "",
+            "video": ""
+          },
+          {
+            "nome": "Desenvolvimento Halteres",
+            "series": "4x10",
+            "descanso": "90s",
+            "observacaoSerie": "",
+            "video": ""
+          },
+          {
+            "nome": "Elevação Frontal Barra",
+            "series": "4x10",
+            "descanso": "60s",
+            "observacaoSerie": "",
+            "video": ""
+          },
+          {
+            "nome": "Crucifixo Inverso Halteres",
+            "series": "4x12",
+            "descanso": "60s",
+            "observacaoSerie": "",
+            "video": ""
+          },
+          {
+            "nome": "Elevação Lateral Halteres",
+            "series": "4x10+F",
+            "descanso": "60s",
+            "observacaoSerie": "Drop Set",
+            "video": ""
+          },
+          {
+            "nome": "Remada Alta Barra",
+            "series": "4x10",
+            "descanso": "60s",
+            "observacaoSerie": "",
+            "video": ""
+          }
+        ]
+      },
+      {
+        "nome": "Dia 5 - Braço",
+        "exercicios": [
+          {
+            "nome": "Rosca Scott Barra W",
+            "series": "4x12",
+            "descanso": "60s",
+            "observacaoSerie": "",
+            "video": ""
+          },
+          {
+            "nome": "Rosca Alternada",
+            "series": "4x12",
+            "descanso": "60s",
+            "observacaoSerie": "",
+            "video": ""
+          },
+          {
+            "nome": "Rosca Braquial",
+            "series": "4x12+F",
+            "descanso": "60s",
+            "observacaoSerie": "Drop Set",
+            "video": ""
+          },
+          {
+            "nome": "Tríceps Testa Polia",
+            "series": "4x12",
+            "descanso": "60s",
+            "observacaoSerie": "",
+            "video": ""
+          },
+          {
+            "nome": "Tríceps Pulley Barra W",
+            "series": "4x12+F",
+            "descanso": "60s",
+            "observacaoSerie": "Drop Set",
+            "video": ""
+          },
+          {
+            "nome": "Tríceps Coice Polia",
+            "series": "4x12",
+            "descanso": "60s",
+            "observacaoSerie": "",
+            "video": ""
+          }
+        ]
+      }
+    ]
+  }
 }
